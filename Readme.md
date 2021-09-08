@@ -68,3 +68,7 @@ The project was developed with the technologies below:
 2. Execute:
 
 - open in some browser
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
