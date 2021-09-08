@@ -2,7 +2,7 @@
     <span>Ui-Clone</span>
 </h1>
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="150px" src="github/pinterest_logo.png" >
+    <img alt="Logo" title="#logo" width="250px" src="github/pinterest_logo.png" >
 </h3>
 
 <p align="center">
@@ -26,8 +26,8 @@
 ## Ui-Clone Pinterest
 
 - [About](#about)
-- [Techs](#techs)
 - [The Application](#application)
+- [Techs](#techs)
 - [Clone and use for Free](#clone)
 
 <a id="about"></a>
@@ -35,6 +35,15 @@
 ## :interrobang: About
 
 A simple ui clone of the pinterest home page, a simple application to work with sass
+
+<a id="application"></a>
+
+## :sparkles: The Application
+
+<h1 align="center">
+    <img alt="home" src="github/page.png">
+</h1>
+
 
 <a id="techs"></a>
 
@@ -45,14 +54,6 @@ The project was developed with the technologies below:
 - [Javacript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Sass](https://sass-lang.com/)
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-
-<a id="application"></a>
-
-## :sparkles: The Application
-
-<h1 align="center">
-    <img alt="home" src="github/page.png">
-</h1>
 
 <a id="clone"></a>
 
