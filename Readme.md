@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-   <a href="https://github.com/VictorGabrielMS">
+   <a href="https://github.com/msvictor">
     <img alt="Code by Victor Gabriel" src="https://img.shields.io/badge/code%20by-Victor Gabriel-%23E02041">
   </a>
 </p>
@@ -62,7 +62,7 @@ The project was developed with the technologies below:
 1. Clone :
 
 ```sh
-  $ git clone https://github.com/VictorGabrielMS/ui-clone-pinterest.git
+  $ git clone https://github.com/msvictor/ui-clone-pinterest.git
 ```
 
 2. Execute:
